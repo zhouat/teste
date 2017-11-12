@@ -4,6 +4,9 @@
 3.XSStrike smart xss bypass waf  
 4.analyse [KLEE](https://github.com/chyyuu/symexe/blob/master/klee_document/klee_analysis.md)  
 http://www.cnblogs.com/welhzh/p/5828074.html
+5. qemu
+(1)qemu-arm-linux
+(2)http://mgalgs.github.io/2015/05/16/how-to-build-a-custom-linux-kernel-for-qemu-2015-edition.html
 
 -fdump-rtl-expand
 -emit-llvm
